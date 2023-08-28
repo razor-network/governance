@@ -1,6 +1,6 @@
 # Razor Network Governance Handbook
 
-**Disclaimer**: The governance is currently in its bootstrapping phase, with the governance strategies still under beta. Thus, guidelines are subject to change at any given moment. Additionally, even if proposed, certain suggestions might not be implemented if they are considered detrimental to the protocol.
+**Disclaimer**: The governance is currently in its bootstrapping phase, with the governance strategies still under beta. Thus, guidelines are subject to change at any given moment. Additionally, even if proposed, particular suggestions might not be implemented if they are considered detrimental to the protocol.
 
 ## Objective
 
@@ -12,7 +12,7 @@ Governance Mechanism's Scope:
 
 ## General Information
 
-- **Where to Propose**: [Submit Proposals Here](URL)
+- **Where to Propose**: [Submit Proposals Here](https://snapshot.org/#/raz.eth)
 - **Proposal Duration**: (DURATION)
 - **Voting Delay**: ????
 - **Voting Period**: ????
@@ -36,8 +36,8 @@ Governance Mechanism's Scope:
 
 ### Proposals
 
-- At present, only authors are permitted to draft proposals. Future outlook: Individuals holding more than a certain minimum voting power can create a proposal.
-- Submit a governance proposal at [Proposal Submission Portal](URL).
+- At present, only authors are permitted to draft proposals. Future outlook: Individuals with a specific minimum voting power can create a proposal.
+- Submit a governance proposal at [Proposal Submission Portal](https://snapshot.org/#/raz.eth).
 - Proposals should fall within specified categories and meet the pertinent criteria.
 
 ## Data Sources
@@ -48,7 +48,7 @@ Governance can add or remove data feeds based on votes. Requirements for a valid
 
 - API must be accessible to the public.
 - The endpoint should exhibit stability, with minimal errors.
-- API call limits should be ample. 1 Request per 10 minutes at the minimum, from same IP address. (Razor network currently makes one request every 20 minutes)
+- API call limits should be ample. 1 Request per 10 minutes at the minimum, from the same IP address. (Razor network currently makes one request every 20 minutes)
 - API responses should be in JSON or XHTML formats.
 - The feed should be available across all geographical regions.
 - It must clear specific tests.
