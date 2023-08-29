@@ -13,11 +13,10 @@ Governance Mechanism's Scope:
 ## General Information
 
 - **Where to Propose**: [Submit Proposals Here](https://snapshot.org/#/raz.eth)
-- **Proposal Duration**: (DURATION)
-- **Voting Delay**: ????
-- **Voting Period**: ????
-- **Quorum**: 100M (Please clarify)
-- **Delegation**: NOT ALLOWED?
+- **Voting Delay**: 2 days
+- **Voting Period**: 7 days
+- **Quorum**: 100M 
+- **Delegation**: Not available
 
 ### Governance Flow:
 
