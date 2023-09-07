@@ -16,7 +16,6 @@ Governance Mechanism's Scope:
 - **Voting Delay**: 2 days
 - **Voting Period**: 7 days
 - **Quorum**: 100M 
-- **Delegation**: Not available
 
 ### Governance Flow:
 
@@ -29,8 +28,8 @@ Governance Mechanism's Scope:
 
 ### Voting
 
-- Eligible Voters: All RAZOR token holders on the Razor SKALE Blockchain, Polygon mainnet and Ethereum mainnet. 
-- Razor network validators and delegators are also eligible to vote. Their voting power equates to the number of RAZOR tokens they hold (or the equivalent for validators and delegators).
+- Eligible Voters: All RAZOR token holders on the Polygon mainnet and Ethereum mainnet. 
+- Razor network validators and delegators are also eligible to vote. They must vote with the address holding sRZR. Their voting power equates to the number of equivalent RAZOR tokens they hold.
 - Minimum Tokens for Voting: Currently, no minimum. 
 
 ### Proposals
