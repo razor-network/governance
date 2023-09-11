@@ -30,7 +30,9 @@ Governance Mechanism's Scope:
 
 - Eligible Voters: All RAZOR token holders on the Polygon mainnet and Ethereum mainnet. 
 - Razor network validators and delegators are also eligible to vote. They must vote with the address holding sRZR. Their voting power equates to the number of equivalent RAZOR tokens they hold.
-- Minimum Tokens for Voting: Currently, no minimum. 
+- Minimum Tokens for Voting: Currently, no minimum.
+
+NOTE: If you are a delegator on Razor Network, you must vote on governance yourself. Your delegated staker cannot vote on your behalf as of now.
 
 ### Proposals
 
