@@ -14,7 +14,7 @@ Governance Mechanism's Scope:
 
 - **Where to Propose**: [Submit Proposals Here](https://vote.razor.network)
 - **Voting Delay**: 2 days
-- **Voting Period**: 7 days
+- **Voting Period**: 12 days
 - **Quorum**: 100M 
 
 ### Governance Flow:
