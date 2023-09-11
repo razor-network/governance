@@ -12,7 +12,7 @@ Governance Mechanism's Scope:
 
 ## General Information
 
-- **Where to Propose**: [Submit Proposals Here](https://snapshot.org/#/raz.eth)
+- **Where to Propose**: [Submit Proposals Here](https://vote.razor.network)
 - **Voting Delay**: 2 days
 - **Voting Period**: 7 days
 - **Quorum**: 100M 
@@ -35,7 +35,7 @@ Governance Mechanism's Scope:
 ### Proposals
 
 - At present, only authors are permitted to draft proposals. Future outlook: Individuals with a specific minimum voting power can create a proposal.
-- Submit a governance proposal at [Proposal Submission Portal](https://snapshot.org/#/raz.eth).
+- Submit a governance proposal at [Proposal Submission Portal](https://vote.razor.network).
 - Proposals should fall within specified categories and meet the pertinent criteria.
 
 ## Data Sources
