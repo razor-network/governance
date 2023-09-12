@@ -68,4 +68,4 @@ A collection refers to an amalgamation of data feeds specific to a particular da
 
 For Datafeeds or Collections proposals, draft a PR at [Razor Network Datasources](https://github.com/razor-network/datasources) and include the link to this PR in the proposal documentation.
 
-[Further Reading on Data Feed and Collection Parameters](LINK TO DOCS).
+[Further Reading on Data Feed and Collection Parameters](https://docs.razor.network/docs/Governance#add-datasource-through-proposal).
