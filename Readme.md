@@ -62,10 +62,18 @@ A collection refers to an amalgamation of data feeds specific to a particular da
 - The power metric used should be uniform.
 - The collection must pass designated tests.
 
+### Parameters 
+
+Governance can propose changes to the Razor Network parameters based on votes. All parameters are crucial for the protocol and are available in the JSON file located at [mainnet/parameters.json](https://github.com/razor-network/parameters/blob/main/mainnet/parameters.json) in the parameters repository.
+
+- Go through the [Contribution guidelines](https://github.com/razor-network/parameters/blob/main/CONTRIBUTING.md).
+- Make sure the parameter being updated is updated within a threshold with proper reasoning
+- All tests should pass
+
 **Note**: Proposals can request the addition or removal of a single collection at a time.
 
 ### Proposal Documentation
 
-For Datafeeds or Collections proposals, draft a PR at [Razor Network Datasources](https://github.com/razor-network/datasources) and include the link to this PR in the proposal documentation.
+For Datafeeds and Collections proposals, draft a PR at [Razor Network Datasources](https://github.com/razor-network/datasources), for Parameters draft a PR to [Parameters](https://github.com/razor-network/parameters) and include the link to this PR in the proposal documentation.
 
-[Further Reading on Data Feed and Collection Parameters](https://docs.razor.network/docs/Governance#add-datasource-through-proposal).
+[Further Reading on Data Feed and Collections and Parameters](https://docs.razor.network/docs/Governance#add-datasource-through-proposal).
