@@ -72,7 +72,7 @@ Governance can propose changes to the Razor Network parameters based on votes. A
 - Go through the [Contribution guidelines](https://github.com/razor-network/parameters/blob/main/CONTRIBUTING.md).
 - Make sure the parameter being updated is updated within a threshold with proper reasoning
 - All tests should pass
-- Only selected parameters that contribute to Inactivity penalties will be allowed to be changed through a governance proposal for now. (`penaltyNotRevealNum`, `penaltyAgeNotRevealNum`, `slashNums`)
+- Only selected parameters that contribute to Inactivity penalties will be allowed to be changed through a governance proposal for now. (`penaltyNotRevealNum`, `penaltyAgeNotRevealNum`)
 
 
 **Note**: ** Only Inactivity Penalties** are available to be updated through a governance proposal right now. 
