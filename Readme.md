@@ -62,6 +62,9 @@ A collection refers to an amalgamation of data feeds specific to a particular da
 - The power metric used should be uniform.
 - The collection must pass designated tests.
 
+
+**Note**: Proposals can request the addition or removal of a single collection at a time.
+
 ### Parameters 
 
 Governance can propose changes to the Razor Network parameters based on votes. All parameters are crucial for the protocol and are available in the JSON file located at [mainnet/parameters.json](https://github.com/razor-network/parameters/blob/main/mainnet/parameters.json) in the parameters repository.
@@ -70,7 +73,8 @@ Governance can propose changes to the Razor Network parameters based on votes. A
 - Make sure the parameter being updated is updated within a threshold with proper reasoning
 - All tests should pass
 
-**Note**: Proposals can request the addition or removal of a single collection at a time.
+
+**Note**: **Inactivity Penalties** are currently available as governance parameters and can be subject to proposals to be changed. 
 
 ### Proposal Documentation
 
