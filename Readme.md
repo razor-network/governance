@@ -75,7 +75,8 @@ Governance can propose changes to the Razor Network parameters based on votes. A
 - Only selected parameters that contribute to Inactivity penalties will be allowed to be changed through a governance proposal for now. (`penaltyNotRevealNum`, `penaltyAgeNotRevealNum`)
 
 
-**Note**: ** Only Inactivity Penalties** are available to be updated through a governance proposal right now. 
+**Note**: Currently, only the parameters associated with inactivity penalties, specifically Penalty Not Reveal Num and Penalty Age Not Reveal Num, are eligible for updates through a proposal.
+
 
 ### Proposal Documentation
 
